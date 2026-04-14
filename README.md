@@ -3,5 +3,5 @@
 <p align="left"> 
   Olá, seja bem vindo ao meu Github 😁
   
-  Meu nome é Enzo e sou estudante de T.I
+  Meu nome é Enzo e sou estudante de T.I em busca de aprendizado.
 </p>
