@@ -2,5 +2,6 @@
 
 <p align="left"> 
   Olá, seja bem vindo ao meu Github 😁
-  Sou estudante de T.I e estou em busca de aprender cada vez mais.
+  
+  Meu nome é Enzo e sou estudante de T.I
 </p>
