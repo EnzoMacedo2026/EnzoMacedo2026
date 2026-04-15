@@ -4,4 +4,9 @@
   Olá, seja bem vindo ao meu Github 😁
   
   Meu nome é Enzo e sou estudante de T.I em busca de aprendizado.
+
+  
+<p align="left">
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/enzz_hm.sousa?igsh=MXgxOXlkOWg0eTY3eA==" alt="Instagram"/></a>
 </p>
