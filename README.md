@@ -6,4 +6,4 @@
   
   Meu nome é Enzo e sou estudante de T.I em busca de aprendizado.
   
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/brantlauro/](https://www.instagram.com/enzz_hm.sousa/))
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzz_hm.sousa?igsh=MXgxOXlkOWg0eTY3eA==)
